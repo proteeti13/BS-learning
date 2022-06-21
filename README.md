@@ -1,5 +1,6 @@
-# BS-learning
+# BS23-learning
 
+List of resources I was given on my previous company (Brain Station 23) to learn when I joined the AEM (Adobe Experience Manager) team as a fresher.
 
 ### Python + Django
 
